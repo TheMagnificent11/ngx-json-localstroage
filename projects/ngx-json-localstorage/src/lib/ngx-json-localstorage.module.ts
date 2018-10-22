@@ -1,9 +1,12 @@
 import { NgModule } from '@angular/core';
 
+import { LocalStorageService } from './local-storage.service';
+
 @NgModule({
     imports: [
     ],
-    declarations: [],
-    exports: []
+    providers: [
+        LocalStorageService
+    ]
 })
 export class NgxJsonLocalstorageModule { }
