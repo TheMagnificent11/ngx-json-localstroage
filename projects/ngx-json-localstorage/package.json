@@ -2,9 +2,14 @@
   "name": "ngx-json-localstorage",
   "version": "0.0.1",
   "description": "Angular 6 service for setting and getting localstorage values with JSON instead of pure strings",
+  "keywords": [
+    "Angular6",
+    "localstorage",
+    "JSON"
+  ],
   "author": {
     "name": "Saji Weerasingham",
-    "url": "https://github.com/TheMagnificent11"
+    "url": "https://github.com/TheMagnificent11/ngx-json-localstroage.git"
   },
   "repository": {
     "type": "git",
