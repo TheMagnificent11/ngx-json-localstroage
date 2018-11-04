@@ -1,9 +1,9 @@
 {
   "name": "ngx-json-localstorage",
   "version": "0.0.1",
-  "description": "Angular 6 service for setting and getting localstorage values with JSON instead of pure strings",
+  "description": "Angular 7 service for setting and getting localstorage values with JSON instead of pure strings",
   "keywords": [
-    "Angular6",
+    "Angular7",
     "localstorage",
     "JSON"
   ],
@@ -16,7 +16,7 @@
     "url": "https://github.com/TheMagnificent11/ngx-json-localstroage.git"
   },
   "peerDependencies": {
-    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
-    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
   }
 }

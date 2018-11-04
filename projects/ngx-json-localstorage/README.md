@@ -1,6 +1,6 @@
 # NgxJsonLocalstorage
 
-An Angular 6 implementation of JavaScript local storage that sets/gets values as JSON instead of pure strings.
+An Angular 7 implementation of JavaScript local storage that sets/gets values as JSON instead of pure strings.
 
 ## Build Status
 [![Build status](https://saji.visualstudio.com/Open%20Source/_apis/build/status/NgxJsonLocalStorage)](https://saji.visualstudio.com/Open%20Source/_build/latest?definitionId=27)
